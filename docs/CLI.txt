@@ -1,0 +1,17 @@
+usage: toolkit.py [-h] (--demo | --csv CSV) [--outcome OUTCOME]
+                  [--base BASE [BASE ...]] [--controls [CONTROLS ...]]
+                  [--max-controls MAX_CONTROLS] [--output OUTPUT]
+
+October 2026 public reconstruction of the documented 2023 OLS workflow. The
+built-in demonstration is synthetic; no internship data are distributed.
+Specification comparisons use one common complete-case sample per outcome.
+
+options:
+  -h, --help            show this help message and exit
+  --demo
+  --csv CSV
+  --outcome OUTCOME
+  --base BASE [BASE ...]
+  --controls [CONTROLS ...]
+  --max-controls MAX_CONTROLS
+  --output OUTPUT

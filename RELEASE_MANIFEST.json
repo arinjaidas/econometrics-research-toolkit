@@ -1,0 +1,152 @@
+{
+  "publication_date": "2026-10-20",
+  "repository": "https://github.com/arinjaidas/econometrics-research-toolkit",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 54,
+      "sha256": "7ae984b50ced7a800f4d97bc3f53471819f84860bbfc71a8658f1162a9f3fc95"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 763,
+      "sha256": "07258f8d6000f2f2df333807355beb979e850d37f36f25ea1057de04b5ecd822"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 161,
+      "sha256": "226529a2f80dc277d24a19fc76db3779708389691b815cacf6c6dc27228fdcde"
+    },
+    {
+      "path": ".python-version",
+      "bytes": 5,
+      "sha256": "7b55f8e67b5623c4bef3fa691288da9437d79d3aba156de48d481db32ac7d16d"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 333,
+      "sha256": "eb6d7d725e7828c119af1c26b98401fbc16888225500649d23aa55ccbe70e38a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 373,
+      "sha256": "c94517114a862536a25e65d901282567a7cc89c7295a6a67e785809e313daa0d"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 607,
+      "sha256": "5bded38c45157b324f6c63e8ca9ed017d3f3068168eeffdc50b95cca1db2106a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3967,
+      "sha256": "342467406eb9751b3e93d9372fee65867b4822f64cf2d1c25a8128504c0b59db"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 1336,
+      "sha256": "3951a3fccceca076d3e487f63766b8451a80f6e72d12cdb5241e7ebba1418ff4"
+    },
+    {
+      "path": "assets/header.svg",
+      "bytes": 722,
+      "sha256": "753984e9055d3f235d2fbfc3330c95a921cf3b76f3aaa23392e692a61dea74d9"
+    },
+    {
+      "path": "demo_output/coefficients_hc3.csv",
+      "bytes": 6561,
+      "sha256": "34a3a0c654b1576ed292088808eb3bccd2c232e2c8d73bfd7c066d982415abfc"
+    },
+    {
+      "path": "demo_output/fit.svg",
+      "bytes": 86145,
+      "sha256": "12c0775f26d1f3d54c4802f8887353018ecdf63cd4d5df1631830d973871a19d"
+    },
+    {
+      "path": "demo_output/model_comparison.csv",
+      "bytes": 1876,
+      "sha256": "789159c8f03aeb3e4e86fd12a63a4b9fdead2f1db5d32971cc0f147e09fa286b"
+    },
+    {
+      "path": "demo_output/run_metadata.json",
+      "bytes": 504,
+      "sha256": "72086a61701f64b325a0f513a9f320a26501b5f1a0c883072d9159a9244beb4c"
+    },
+    {
+      "path": "demo_output/top_model_summaries.txt",
+      "bytes": 20070,
+      "sha256": "228662d0ee4e4a4245167f041c222732e7992e0a4c6fabf1979636d65a359c7c"
+    },
+    {
+      "path": "demo_output/vif.csv",
+      "bytes": 1674,
+      "sha256": "5ba70010d9de1309cf85a78a3ba631c80ad647c9aba95d53c22daafa06b76ec4"
+    },
+    {
+      "path": "docs/CLI.txt",
+      "bytes": 634,
+      "sha256": "c972cd7c235555ad9d8d7e80df72d1faff54e9cca3e5cc883393840bebd91240"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 727,
+      "sha256": "6357752c683a01c5f6b4bb3e47f0dbad9e26afd1263b477ac368f0c00e1fa41c"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "bytes": 1383,
+      "sha256": "77ab99d6a1a41aa3f7f2f2efb007377ea8d75c1ea025cea2d5fbcdcf859eab8f"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 1124,
+      "sha256": "48e31f202313d31df4c8fb4e17d29c07ddb7b33de7ea851f0b356b84edbb813c"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "bytes": 463,
+      "sha256": "45019df941d196531ed82977af8d7f2396a66f78369414937ff93ba6aac339fd"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "bytes": 911,
+      "sha256": "5c7923b38fbb486166a41410b7f6d24425a33d9793e14b66bf64aaca62e1296e"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 359,
+      "sha256": "a2a91909140cd9adf1160f1340fee91490f5d000e10e5fa10fc3fae347ed7cae"
+    },
+    {
+      "path": "docs/environment.json",
+      "bytes": 278,
+      "sha256": "c12143b6512ab77c7898db33d7d05dda805d20f6a8a41feb33906f0dd55ffae2"
+    },
+    {
+      "path": "notebooks/01_results_walkthrough.ipynb",
+      "bytes": 4148,
+      "sha256": "c1b7b46e646a7cf59d2afc827e4327f8782639dddc5a0c34835f013c3b34dd97"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 58,
+      "sha256": "4d9945c8f4d5fd196968d52c9dd25b01496c91661c1b38adc90f9fdf9b6f0233"
+    },
+    {
+      "path": "test_search_budget.py",
+      "bytes": 582,
+      "sha256": "346174ac4cbcc4c015c7d4c61266a3c4a44721cd25d48d97016d622a73fe7a4e"
+    },
+    {
+      "path": "test_toolkit.py",
+      "bytes": 1410,
+      "sha256": "982c4f93b6168561e68294c050177dcd4a5d286a8c6ef42199530eee2912216a"
+    },
+    {
+      "path": "toolkit.py",
+      "bytes": 6582,
+      "sha256": "7ea332726d03984d58788c5e39bf4ae9ac9dcb098d2a7a3aa903702b6ff8e75a"
+    }
+  ],
+  "excludes": "This manifest excludes itself to avoid a recursive hash."
+}

@@ -1,0 +1,291 @@
+model_012
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.715
+Model:                            OLS   Adj. R-squared:                  0.712
+Method:                 Least Squares   F-statistic:                     245.8
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):          2.31e-104
+Time:                        11:06:34   Log-Likelihood:                -981.61
+No. Observations:                 388   AIC:                             1973.
+Df Residuals:                     383   BIC:                             1993.
+Df Model:                           4                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+const             55.1908      0.353    156.497      0.000      54.500      55.882
+numeracy           4.2335      0.163     25.902      0.000       3.913       4.554
+coast_distance    -2.0991      0.147    -14.301      0.000      -2.387      -1.811
+climate            1.2195      0.149      8.204      0.000       0.928       1.511
+population        -0.1606      0.170     -0.944      0.345      -0.494       0.173
+==============================================================================
+Omnibus:                        5.724   Durbin-Watson:                   1.908
+Prob(Omnibus):                  0.057   Jarque-Bera (JB):                6.003
+Skew:                          -0.206   Prob(JB):                       0.0497
+Kurtosis:                       3.450   Cond. No.                         5.45
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_011
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.715
+Model:                            OLS   Adj. R-squared:                  0.712
+Method:                 Least Squares   F-statistic:                     239.4
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):          8.78e-103
+Time:                        11:06:34   Log-Likelihood:                -981.63
+No. Observations:                 388   AIC:                             1973.
+Df Residuals:                     383   BIC:                             1993.
+Df Model:                           4                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+const             54.8934      0.158    347.237      0.000      54.584      55.203
+numeracy           4.1697      0.179     23.289      0.000       3.819       4.521
+coast_distance    -2.0878      0.148    -14.143      0.000      -2.377      -1.799
+climate            1.2191      0.148      8.227      0.000       0.929       1.510
+missions           0.1658      0.180      0.923      0.356      -0.186       0.518
+==============================================================================
+Omnibus:                        6.311   Durbin-Watson:                   1.903
+Prob(Omnibus):                  0.043   Jarque-Bera (JB):                6.510
+Skew:                          -0.233   Prob(JB):                       0.0386
+Kurtosis:                       3.431   Cond. No.                         1.49
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_005
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.714
+Model:                            OLS   Adj. R-squared:                  0.712
+Method:                 Least Squares   F-statistic:                     319.9
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):          4.81e-104
+Time:                        11:06:34   Log-Likelihood:                -982.16
+No. Observations:                 388   AIC:                             1972.
+Df Residuals:                     384   BIC:                             1988.
+Df Model:                           3                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+const             54.8853      0.157    350.571      0.000      54.578      55.192
+numeracy           4.2311      0.163     25.898      0.000       3.911       4.551
+coast_distance    -2.0934      0.147    -14.214      0.000      -2.382      -1.805
+climate            1.2239      0.147      8.334      0.000       0.936       1.512
+==============================================================================
+Omnibus:                        5.714   Durbin-Watson:                   1.910
+Prob(Omnibus):                  0.057   Jarque-Bera (JB):                5.910
+Skew:                          -0.212   Prob(JB):                       0.0521
+Kurtosis:                       3.431   Cond. No.                         1.13
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_013
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.672
+Model:                            OLS   Adj. R-squared:                  0.669
+Method:                 Least Squares   F-statistic:                     191.1
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):           7.35e-90
+Time:                        11:06:34   Log-Likelihood:                -1008.4
+No. Observations:                 388   AIC:                             2027.
+Df Residuals:                     383   BIC:                             2047.
+Df Model:                           4                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+const             55.1957      0.371    148.627      0.000      54.468      55.924
+numeracy           4.1761      0.189     22.057      0.000       3.805       4.547
+coast_distance    -2.1065      0.156    -13.508      0.000      -2.412      -1.801
+missions           0.1861      0.193      0.965      0.335      -0.192       0.564
+population        -0.1761      0.184     -0.957      0.339      -0.537       0.185
+==============================================================================
+Omnibus:                        4.852   Durbin-Watson:                   1.846
+Prob(Omnibus):                  0.088   Jarque-Bera (JB):                5.110
+Skew:                          -0.172   Prob(JB):                       0.0777
+Kurtosis:                       3.445   Cond. No.                         5.46
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_006
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.671
+Model:                            OLS   Adj. R-squared:                  0.669
+Method:                 Least Squares   F-statistic:                     250.3
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):           5.64e-90
+Time:                        11:06:34   Log-Likelihood:                -1009.0
+No. Observations:                 388   AIC:                             2026.
+Df Residuals:                     384   BIC:                             2042.
+Df Model:                           3                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+const             54.8613      0.169    324.230      0.000      54.530      55.193
+numeracy           4.1676      0.190     21.963      0.000       3.796       4.540
+coast_distance    -2.0998      0.157    -13.370      0.000      -2.408      -1.792
+missions           0.2022      0.193      1.047      0.295      -0.176       0.581
+==============================================================================
+Omnibus:                        4.756   Durbin-Watson:                   1.851
+Prob(Omnibus):                  0.093   Jarque-Bera (JB):                4.779
+Skew:                          -0.191   Prob(JB):                       0.0917
+Kurtosis:                       3.387   Cond. No.                         1.48
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_007
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.671
+Model:                            OLS   Adj. R-squared:                  0.669
+Method:                 Least Squares   F-statistic:                     253.9
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):           8.97e-91
+Time:                        11:06:34   Log-Likelihood:                -1009.0
+No. Observations:                 388   AIC:                             2026.
+Df Residuals:                     384   BIC:                             2042.
+Df Model:                           3                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+const             55.2157      0.374    147.676      0.000      54.483      55.948
+numeracy           4.2454      0.172     24.670      0.000       3.908       4.583
+coast_distance    -2.1134      0.155    -13.608      0.000      -2.418      -1.809
+population        -0.1914      0.185     -1.037      0.300      -0.553       0.170
+==============================================================================
+Omnibus:                        4.119   Durbin-Watson:                   1.851
+Prob(Omnibus):                  0.128   Jarque-Bera (JB):                4.315
+Skew:                          -0.144   Prob(JB):                        0.116
+Kurtosis:                       3.429   Cond. No.                         5.44
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_001
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.670
+Model:                            OLS   Adj. R-squared:                  0.669
+Method:                 Least Squares   F-statistic:                     372.8
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):           8.78e-91
+Time:                        11:06:34   Log-Likelihood:                -1009.7
+No. Observations:                 388   AIC:                             2025.
+Df Residuals:                     385   BIC:                             2037.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+const             54.8512      0.167    328.078      0.000      54.524      55.179
+numeracy           4.2426      0.172     24.601      0.000       3.905       4.581
+coast_distance    -2.1066      0.156    -13.467      0.000      -2.413      -1.800
+==============================================================================
+Omnibus:                        3.917   Durbin-Watson:                   1.857
+Prob(Omnibus):                  0.141   Jarque-Bera (JB):                3.889
+Skew:                          -0.162   Prob(JB):                        0.143
+Kurtosis:                       3.369   Cond. No.                         1.12
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_008
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.573
+Model:                            OLS   Adj. R-squared:                  0.570
+Method:                 Least Squares   F-statistic:                     143.7
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):           1.93e-62
+Time:                        11:06:34   Log-Likelihood:                -1059.9
+No. Observations:                 388   AIC:                             2128.
+Df Residuals:                     384   BIC:                             2144.
+Df Model:                           3                                         
+Covariance Type:                  HC3                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         55.0538      0.194    283.540      0.000      54.673      55.434
+numeracy       4.0184      0.225     17.841      0.000       3.577       4.460
+climate        1.2419      0.183      6.775      0.000       0.883       1.601
+missions       0.2468      0.210      1.177      0.239      -0.164       0.658
+==============================================================================
+Omnibus:                        2.519   Durbin-Watson:                   1.847
+Prob(Omnibus):                  0.284   Jarque-Bera (JB):                2.308
+Skew:                          -0.130   Prob(JB):                        0.315
+Kurtosis:                       3.275   Cond. No.                         1.48
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_002
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.571
+Model:                            OLS   Adj. R-squared:                  0.569
+Method:                 Least Squares   F-statistic:                     213.3
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):           4.58e-63
+Time:                        11:06:34   Log-Likelihood:                -1060.7
+No. Observations:                 388   AIC:                             2127.
+Df Residuals:                     385   BIC:                             2139.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         55.0423      0.193    285.585      0.000      54.665      55.420
+numeracy       4.1094      0.212     19.377      0.000       3.694       4.525
+climate        1.2492      0.181      6.884      0.000       0.894       1.605
+==============================================================================
+Omnibus:                        2.151   Durbin-Watson:                   1.851
+Prob(Omnibus):                  0.341   Jarque-Bera (JB):                1.948
+Skew:                          -0.106   Prob(JB):                        0.378
+Kurtosis:                       3.274   Cond. No.                         1.10
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+model_014
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        life_expectancy   R-squared:                       0.573
+Model:                            OLS   Adj. R-squared:                  0.569
+Method:                 Least Squares   F-statistic:                     107.4
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):           2.85e-61
+Time:                        11:06:34   Log-Likelihood:                -1059.8
+No. Observations:                 388   AIC:                             2130.
+Df Residuals:                     383   BIC:                             2149.
+Df Model:                           4                                         
+Covariance Type:                  HC3                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         55.1743      0.432    127.802      0.000      54.328      56.020
+numeracy       4.0213      0.226     17.781      0.000       3.578       4.465
+climate        1.2404      0.185      6.711      0.000       0.878       1.603
+missions       0.2412      0.209      1.154      0.248      -0.168       0.651
+population    -0.0634      0.210     -0.302      0.763      -0.475       0.348
+==============================================================================
+Omnibus:                        2.521   Durbin-Watson:                   1.849
+Prob(Omnibus):                  0.283   Jarque-Bera (JB):                2.321
+Skew:                          -0.126   Prob(JB):                        0.313
+Kurtosis:                       3.282   Cond. No.                         5.45
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)

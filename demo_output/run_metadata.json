@@ -1,0 +1,19 @@
+{
+  "synthetic": true,
+  "input_rows": 400,
+  "common_complete_case_rows": 388,
+  "outcome": "life_expectancy",
+  "base": [
+    "numeracy"
+  ],
+  "controls": [
+    "coast_distance",
+    "climate",
+    "missions",
+    "population"
+  ],
+  "models_estimated": 15,
+  "skipped": [],
+  "inference": "Exploratory specification search. HC3 standard errors do not correct for multiple-model selection.",
+  "provenance": "Public reconstruction; original institutional data and unpublished findings are excluded."
+}
